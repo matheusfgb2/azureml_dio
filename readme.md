@@ -74,6 +74,8 @@ O experimento teve como objetivo construir um modelo de classificação binária
 
 > Nenhum modelo superou a marca de 0.60 em AUCWeighted, o que indica baixa capacidade de distinguir entre transações legítimas e fraudulentas.
 
+![Visualização do modelo](image.png)
+
 ---
 
 ## 5. Análise Crítica
